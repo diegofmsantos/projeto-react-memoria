@@ -31,6 +31,7 @@ export const Icon = styled.img`
 export const Label = styled.div`
     height: inherit;
     color: #FFF;
+    font-size: 1.1rem;
     display: flex;
     justify-content: center;
     align-items: center;
