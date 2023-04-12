@@ -43,7 +43,7 @@ const App = () => {
   }
 
   const handleItemClick = (index: number) => {
-
+    
   }
 
   return (
